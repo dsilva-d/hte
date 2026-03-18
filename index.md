@@ -1,6 +1,6 @@
-# Privacy Policy for Hawk Tuah Replacer
+# Privacy Policy for HT Replacer
 
-Hawk Tuah Replacer does not collect, store, or transmit any user data.
+HT Replacer does not collect, store, or transmit any user data.
 
 This extension operates entirely locally within the user’s browser. It modifies visible webpage text to provide its functionality, but does not access, log, or transmit personal information, browsing history, or user activity.
 
